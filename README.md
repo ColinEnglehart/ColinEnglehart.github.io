@@ -11,5 +11,5 @@ https://github.com/ColinEnglehart/
 My Github pages Repo can be found at:
 https://github.com/ColinEnglehart/ColinEnglehart.github.io/
 
-My customized homepage is at:
+Soon, My customized homepage will be at:
 https://ColinEnglehart.github.io/
