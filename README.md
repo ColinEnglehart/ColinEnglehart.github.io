@@ -1,4 +1,4 @@
-# ColinEnglehartgithub.io
+# ColinEnglehart.github.io
 
 
 ## Hello!
@@ -9,7 +9,7 @@ My github user page is at:
 https://github.com/ColinEnglehart/
 
 My Github pages Repo can be found at:
-https://github.com/ColinEnglehart/ColinEnglehartgithub.io/
+https://github.com/ColinEnglehart/ColinEnglehart.github.io/
 
 My customized homepage is at:
 https://ColinEnglehart.github.io/
