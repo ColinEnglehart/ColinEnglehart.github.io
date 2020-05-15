@@ -1,7 +1,9 @@
 body { 
   font-family: Cambria , Arial;}
-h1+.one {text-align: center;}
-h2+.two {text-align: right;}
+h1 {text-align: center;}
+.one {text-align: center;}
+h2 {text-align: right;}
+.two {text-align: right;}
 .center {
   display: block;
   margin-left: auto;
